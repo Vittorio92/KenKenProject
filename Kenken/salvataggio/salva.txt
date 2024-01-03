@@ -1,0 +1,8 @@
+3
+-
+3 1 2 2 3 1 1 2 3 
+-
+A A B C C B C D D 
+-
+A 2 sottrazione;B 3 addizione;C 6 addizione;D 1 sottrazione;
+-
